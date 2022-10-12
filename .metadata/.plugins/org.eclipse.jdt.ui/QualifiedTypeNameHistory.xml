@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.jp.entity.DiaChi"/>
+    <fullyQualifiedTypeName name="com.jp.entity.NhanVien"/>
+    <fullyQualifiedTypeName name="com.jp.entity.Nguoi"/>
+    <fullyQualifiedTypeName name="com.jp.entity.BenhVien"/>
+    <fullyQualifiedTypeName name="com.jp.entity.BenhNhan"/>
+    <fullyQualifiedTypeName name="com.jp.exercise5.Truong"/>
+    <fullyQualifiedTypeName name="com.jp.exercise5.SinhVien"/>
+    <fullyQualifiedTypeName name="exercise6.Employee"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="exercise6.PartTimeEmployee"/>
+    <fullyQualifiedTypeName name="exercise7.IGeometricObject"/>
+    <fullyQualifiedTypeName name="exercise7.IReszable"/>
+    <fullyQualifiedTypeName name="com.sun.tools.javac.parser.Scanner"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="exercise7.ResizableCircle"/>
+    <fullyQualifiedTypeName name="exercise8.Triangle"/>
+    <fullyQualifiedTypeName name="exercise8.Rectangle"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,14 @@
+package com.jp.fontend;
+
+import com.jp.entity.DiaChi;
+import com.jp.entity.Nguoi;
+
+public class Test_Nguoi_Demo {
+public static void main(String[] args) {
+	// khoi tao dia chi
+	DiaChi diaChi = new DiaChi("Nguyen xa", "Minh Khai", "Bac Tu Liem", "Ha Noi");
+	
+	// khoi tao thong tin nguoi
+	Nguoi nguoi = new Nguoi("tung", diaChi, 'n');
+}
+}

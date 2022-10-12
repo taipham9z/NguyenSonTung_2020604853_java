@@ -1,0 +1,10 @@
+package com.jp.fontend;
+
+import exercise8.*;
+
+public class Testing_Shape_Area {
+public static void main(String[] args) {
+	Shape cir = new Shape();
+	Triangle tri = new Triangle();
+}
+}

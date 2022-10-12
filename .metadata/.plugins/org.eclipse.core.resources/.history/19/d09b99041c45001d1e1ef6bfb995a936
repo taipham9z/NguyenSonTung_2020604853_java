@@ -1,0 +1,13 @@
+package com.jp.fontend;
+
+
+import com.jp.entity.Nguoi;
+
+public class Test_Nguoi_Demo {
+public static void main(String[] args) {
+
+	
+	// khoi tao thong tin nguoi
+	Nguoi nguoi = new Nguoi("tung", 20, 'n');
+}
+}

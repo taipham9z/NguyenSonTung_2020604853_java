@@ -1,0 +1,23 @@
+package exercise7;
+
+import java.util.Scanner;
+
+public class ResizableCircle extends Circle implements IReszable  {
+	Scanner scanner = new Scanner(System.in);
+	public ResizableCircle(double radius) {
+		this.radius = radius;
+	}
+
+	@Override
+	public int resize() {
+		int percent = scanner.nextInt();
+		radius += percent;
+		return radius;
+	}
+	
+	
+	
+	
+	
+	
+}

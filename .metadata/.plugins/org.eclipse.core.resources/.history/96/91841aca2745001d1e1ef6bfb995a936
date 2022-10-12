@@ -1,0 +1,6 @@
+package exercise7;
+
+public interface  {
+	public double getPerimeter();
+	public double getArea();
+}
